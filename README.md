@@ -1,32 +1,23 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software is designed to keep track of your tasks and to-do list. It stores all to-do items in a list and sorts them based on the type of task it is.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+The purpose of writing this software was to learn how to program in the Kotlin language.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vL9KSVI-9Lc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This program was written using IntelliJIDEA.
 
-{Describe the programming language that you used and any libraries.}
+The language used was Kotlin.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Programiz](https://www.programiz.com/kotlin-programming)
+- [Kotlin (official site)](https://kotlinlang.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Make it optional to delete completed tasks from the list
+- Make it possible to save and load the tasks from a file
